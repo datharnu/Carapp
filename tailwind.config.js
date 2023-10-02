@@ -15,8 +15,9 @@ module.exports = {
         bgwhite: "hsl(0, 0%, 98%)",
         green: "#38B722",
         likeb: "#222123",
-        textcolor: "rgba(255, 255, 255, 0.50);"
-
+        textcolor: "rgba(255, 255, 255, 0.50);",
+        bbc: "#333333",
+        bgg: "#F5F5F5"
       }
     },
   },
